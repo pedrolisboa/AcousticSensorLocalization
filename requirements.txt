@@ -40,7 +40,7 @@ LatLon==1.0.2
 lesscpy==0.12.0
 louis==2.6.4
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 Markdown==2.6.11
 Markups==1.0.1
 MarkupSafe==1.0
